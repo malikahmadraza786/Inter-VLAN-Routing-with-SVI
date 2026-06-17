@@ -1,4 +1,4 @@
-# 🔀 Switching Lab 3 — Inter-VLAN Routing with SVI
+Inter-VLAN Routing with SVI
 
 ## 📌 Overview
 Enterprise switching lab implementing VLANs, VTP domain,
